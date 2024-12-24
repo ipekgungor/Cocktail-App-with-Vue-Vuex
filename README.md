@@ -17,7 +17,7 @@ This is a Vue.js application that displays cocktails based on selected letters. 
 - [npm](https://www.npmjs.com/) (comes with Node.js)
 - Vue.js 3
 - **State Management:** Vuex
-- **CSS** Tailwind CSS
+- **CSS:** Tailwind CSS
 
 ## API REFERENCE
 
@@ -32,7 +32,7 @@ To run this project locally, follow these steps:
    git clone https://github.com/ipekgungor/Cocktail-App-with-Vue-Vuex.git
 2. Navigate to the Project Directory:
    ```bash
-    cd Cocktail-App-with-Vue-Vuex.git
+   cd Cocktail-App-with-Vue-Vuex.git
 3. Install Dependencies:
    ```bash
    npm install
